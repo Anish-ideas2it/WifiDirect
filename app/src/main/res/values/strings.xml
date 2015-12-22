@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wi-fi Direct</string>
+    <string name="discover">Discover</string>
+    <string name="disconnect_button">Disconnect</string>
+    <string name="gallery_button">Gallery</string>
+</resources>
